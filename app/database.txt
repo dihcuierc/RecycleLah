@@ -1,0 +1,8 @@
+User: id, email, password, points, level, name, History_Key, badges, CO2, Energy
+
+History: id, User_id, bin_Location, date, weight, type, points_earned, rate
+
+Redeem: id, User_id, points, date
+
+
+
