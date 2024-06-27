@@ -52,7 +52,7 @@ Hence, to promote recyling of waste, I created RecycleLah.
 
 Here is a simple app demo to demonstrate the features.
 
-<video src="github/DemoApp.mp4" controls autoplay style="width: 20%" ></video>
+[<img src="https://img.youtube.com/vi/j7KPU-kUp40/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=j7KPU-kUp40)
 
 ## Challenges faced
 
